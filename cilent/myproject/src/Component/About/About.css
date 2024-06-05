@@ -1,0 +1,61 @@
+body{
+        margin-top:-4px ;
+        margin-left:-4px ;
+}
+.about-image{
+        width: 1255px;
+        height: 745px;
+}
+h1{
+        margin-top: -260px;
+        font-size: 4.5rem;
+        color: white;
+}
+.history{
+        display: flex;
+        text-align: left;
+        margin-top: 300px;
+        justify-content: space-evenly;
+}
+.history h5{
+        font-size: 2.25rem;
+        margin-left: 55px;
+        padding-right: 150px;
+        margin-top: -30px;
+}
+.hisp{
+        padding-left: 145px;
+}
+.culture {
+        justify-content: center;
+        margin-top: 150px;
+}
+.images{
+        display: flex;
+}
+.img2{
+        width: 400px;
+        height: 240px;
+        margin-left: 40px;
+}
+.img1{
+        width: 735px;
+        height: 240px;
+        margin-left: 20px;
+}
+.content{
+        justify-content: space-evenly;
+        text-align: left;
+        display: flex;
+        margin-top: 100px;
+        margin-bottom: 100px;
+}
+.culture h2{
+        font-size: 2.25rem;
+        margin-left: 55px;
+        padding-right: 150px;
+        margin-top: -30px;
+}
+.conp{
+        padding-left: 145px;
+}

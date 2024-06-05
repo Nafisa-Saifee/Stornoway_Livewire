@@ -1,0 +1,48 @@
+.sign-image{
+        width: 1263px;
+        height: 575px;
+}
+.sign-head{
+        margin-top: -150px;
+        font-size: 4.5rem;
+        color: white;
+}
+.form{
+        margin-left: 335px;
+        margin-top: 200px;
+        margin-bottom: 100px;
+}
+.form h1{
+        color: black;
+        margin-top: 150px;
+        font-size: 2.0rem;
+}
+.form input{
+        border: transparent;
+        height: 50px;
+        width: 710px;
+        color:rgb(136, 136, 136);
+        background-color:rgb(241, 241, 241)
+}
+.click-sign{
+                height: 60px;
+                width: 190px;
+                font-size: 20px;
+                font-family: fangsong;
+                margin-left: 5px;
+                margin-top: 45px;
+                background-color: black;
+                color: white;
+        }
+        .click-sign:hover{
+                background-color: rgb(61, 59, 59);
+                border: none;
+        }
+        .click-sign a{
+                color:white;
+                text-decoration: none;
+        }
+        body{
+                margin-top: -4px;
+                margin-left: -4px;
+        }

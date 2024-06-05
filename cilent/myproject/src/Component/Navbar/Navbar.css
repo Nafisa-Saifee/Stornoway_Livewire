@@ -1,0 +1,32 @@
+  /*---Navbar---*/
+  a {
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+  }
+  .navbar{
+    position: absolute;
+    margin-top: 70px;
+}
+.navbar img{
+    margin:0px;
+    padding-left:10px;
+}
+.nav-link{
+    display: flex;
+}
+ a:hover{
+    color: white;
+    text-decoration: underline;
+}
+.nav-item{
+    display: inline-block;
+    /* list-style: none; */
+    margin-left:25px;
+
+}
+.nav-list{
+    margin-left: 500px;
+    margin-top: -40px;
+    font-size: 20px;
+}

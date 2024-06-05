@@ -1,0 +1,73 @@
+body{
+        margin-top:-4px ;
+        margin-left:-4px ;
+}
+.cont-image{
+        width: 1263px;
+        height: 575px;
+}
+.cont-head{
+        margin-top: -150px;
+        font-size: 4.5rem;
+        color: white;
+}
+.cont{
+        margin-top: 170px;
+        height: 600px;
+        /* margin-bottom: 70px; */
+        display: flex;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.visit{
+        margin-left: 225px;
+        padding-top: 180px;
+        line-height: 10px;
+}
+.map h1{
+        width: 500px;
+        font-size: 2.5rem;
+        margin-left: 50px;
+        color: black;
+        margin-top:0px;
+}
+.map iframe{
+        margin-top: 100px;
+        width: 700px;
+        height: 315px;
+        margin-left: 40px;
+        border: 0;
+}
+.visit h1{
+        margin-bottom: 25px;
+        margin-top: 85px;
+        color: black;
+        font-size:25px;
+}
+.form2{
+        margin-left: 335px;
+}
+.form2 input{
+        border: transparent;
+        height: 50px;
+        width: 710px;
+        color:rgb(136, 136, 136);
+        background-color:rgb(241, 241, 241)
+}
+.click-cont{
+                height: 60px;
+                width: 190px;
+                font-size: 20px;
+                font-family: fangsong;
+                margin-left: 5px;
+                margin-top: 45px;
+                background-color: black;
+                color: white;
+        }
+        .click-cont:hover{
+                background-color: rgb(61, 59, 59);
+                border: none;
+        }
+        .click-cont a{
+                color:white;
+                text-decoration: none;
+        }

@@ -1,0 +1,67 @@
+.log-image{
+        width: 1263px;
+        height: 575px;
+}
+.log-head{
+        margin-top: -150px;
+        font-size: 4.5rem;
+        color: white;
+}
+.coform1{
+        display: grid;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        justify-content: center;
+}
+.coform1 h1{
+        margin-left:235px;
+        font-family: serif;
+        font-weight: 600;
+        font-size: 2.5rem;
+        margin-top: 100px;
+        color: black;
+}
+.coform1 h4{
+         margin-left: 65px;
+         font-size: 25px; 
+}
+.form1{
+        margin-top: 25px;
+}
+.form1 input{
+        border: transparent;
+        height: 50px;
+        width: 710px;
+        color:rgb(136, 136, 136);
+        background-color:rgb(241, 241, 241)
+}
+.click-log{
+                height: 50px;
+                width: 155px;
+                font-size: 20px;
+                font-family: fangsong;
+                margin-left: 5px;
+                margin-top: 45px;
+                background-color: black;
+                color: white;
+        }
+        .click-log:hover{
+                background-color: rgb(61, 59, 59);
+                border: none;
+        }
+        .click-log a{
+                color:white;
+                text-decoration: none;
+        }
+        a{
+                text-decoration: none;
+                margin-left: 5px;
+        }
+        p{
+                margin-left: 5px;
+                margin-top: 10px;
+        }
+        body{
+                margin-top: -4px;
+                margin-left: -4px;
+        }

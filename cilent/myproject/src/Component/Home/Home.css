@@ -1,0 +1,220 @@
+.home-image{
+    width: 1263px;
+    height: 750px;
+}
+
+.home-head{
+    font-size: 85px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: -360px;
+    margin-left: 35px;
+}
+.click{
+    height: 60px;
+    width: 190px;
+    font-size: 20px;
+    font-family: fangsong;
+    margin-left: 545px;
+    margin-top: 45px;
+    background-color: white;
+}
+.click:hover{
+    background-color: black;
+    border: none;
+}
+.click a:hover{
+    color: white;
+}
+.click a{
+    color:black;
+    text-decoration: none;
+}
+.read{
+    height: 50px;
+    width: 170px;
+    font-size: 20px;
+    font-family: fangsong;
+    margin-left: 0px;
+    margin-top: 45px;
+    background-color: black;
+    color: white;
+}
+.read:hover{
+    background-color: rgb(58, 54, 54);
+    border: none;
+}
+.read a{
+    text-decoration: none;
+    color: white;
+}
+.about{
+    justify-content: center;
+    text-align: center;
+    font-size: larger;
+    margin-left: 90px;
+    margin-top: 200px;
+}
+.about p{
+    margin-left: 300px;
+    padding-right: 300px;
+    margin-top: 45px;
+}
+.about h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 75px;
+    padding-left: 275px;
+    margin-right: 280px;
+    font-weight: bold;
+}
+.more{
+    height: 60px;
+    width: 190px;
+    font-size: 20px;
+    font-family: fangsong;
+    margin-left: 545px;
+    margin-top: 105px;
+    margin-bottom: 150px;
+    background-color:white;
+}
+.more:hover{
+    background-color: rgb(48, 46, 46);
+    border: none;
+}
+.more a{
+    text-decoration: none;
+    color: black;
+}
+.more a:hover{
+    color: white;
+}
+.img123 img{
+    width: 400px;
+    height: 240px;
+    justify-content: center;
+    align-items: center;
+    margin-left:10px;
+
+}
+.project{
+    color: white;
+    background-color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 325px;
+    width: 1263px;
+}
+.project h1{
+    justify-content: center;
+    text-align: -webkit-center;
+    font-size: 4.5rem;
+    margin-bottom: 135px;
+    padding-top: 140px;
+}
+.project h5{
+    display: block;
+}
+.img2h{
+    margin-left: 430px;
+    margin-top: -45px;
+}
+.img3h{
+    margin-left: 870px;
+     margin-top: -40px;
+     }
+.Services{
+    display: flex;
+    margin-top: 440px;
+    font-family: DM Sans,sans-serif;
+    display: block;
+    margin-bottom: 150px;
+}
+.serv1{
+    justify-content: center;
+    text-align: left;
+    margin-right: 765px;
+    line-height: 30px;
+    padding-left: 70px;
+}
+.serv1 h1{
+    font-weight: 600;
+    font-size: 60px;
+    color:black
+}
+.serv2{
+    margin-left: 730px;
+     margin-top: -385px;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.serv2 h5{
+    margin-left: 115px;
+    margin-top: -140px;
+    padding-top: 45px;
+    font-size: 23px;
+}
+.serv2 h1{
+    font-size: 4.5rem;
+    padding-top: 45px;
+    margin-top: -22px;
+    color: black;
+}
+.servb{
+    height: 50px;
+    width: 170px;
+    font-size: 20px;
+    font-family: fangsong;
+    margin-left: 0px;
+    margin-top: 45px;
+    background-color: black;
+    color: white;
+}
+.servb:hover{
+    background-color: rgb(58, 54, 54);
+    border: none;
+}
+.servb a{
+    text-decoration: none;
+    color: white;
+}
+.careers img{
+    width: 1263px;
+    height: 729px;
+}
+.career{
+    margin-top: 370px;
+    margin-bottom:-205px;
+}
+.cares{
+    position: absolute;
+    margin-top: -445px;
+    margin-left: 900px;
+}
+.open{
+    height: 50px;
+    width: 170px;
+    font-size: 20px;
+    font-family: fangsong;
+    margin-left: 0px;
+    margin-top: 45px;
+    background-color: black;
+    color: white;
+    }
+.open:hover{
+    background-color: rgb(58, 54, 54);
+    border: none;
+}
+.open a{
+    text-decoration: none;
+    color: white;
+}
+.cares h1{
+    margin-bottom: 25px;
+    font-size: 4.0rem;
+    color: black;
+}
+.cares p{
+    font-size: 20px;
+}
+body{
+    margin-top:-4px ;
+    margin-left:-4px ;
+}
